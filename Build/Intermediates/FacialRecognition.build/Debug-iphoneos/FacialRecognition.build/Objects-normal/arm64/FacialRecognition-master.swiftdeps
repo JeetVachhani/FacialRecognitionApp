@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "658b94852c51e3ee3061c0aa8775c9c7"
+build_time: [1566689103, 766128000]
+inputs:
+  "/Users/jeetvachhani/Documents/xcodeWorkspace/FacialRecognition/FacialRecognition/ViewController.swift": [1566687886, 0]
+  "/Users/jeetvachhani/Documents/xcodeWorkspace/FacialRecognition/FacialRecognition/AppDelegate.swift": [1565668211, 0]
