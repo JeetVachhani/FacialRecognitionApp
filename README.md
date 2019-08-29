@@ -3,16 +3,16 @@
 <br>This IOS App analyzes a given picture which the user provides from his/her camra roll. The program can detect the number of faces in the selected image. It is also indicated whether or not these faces are completely exposed and not cut off. Facial features and structures such as eyes and smiles are also detected and analyzed. The complete report for each face detected indicates whether a person is smiling and (or) has both eyes open. The program allows you to switch between photos from your camra roll instantly and effortlessly.    </p>
 
 <p align="left"><strong>Implementation Details</strong>
-<br> The program contains three main Objects (from the object library): A image view controller, text view controller, and a button. When the button is pressed, the camra roll is accessed by the program. Once an image is selected the image immediatly append to the image view controller. The text view controller loads the information and final report. The built-in framework "Core Image" is was also used for image processing and analysis.  </p>
+<br> The program contains three main Objects (from the object library): A image view controller, text view controller, and a button. When the button is pressed, the camra roll is accessed by the program. Once an image is selected the image immediatly append to the image view controller. The text view controller loads the information and final report. The built-in framework "Core Image" is was also used for image processing and analysis. Personally implemented methods and the swift class "CIDetector" was additionaly used for the analysis. </p>
 
 <h2>Key learnings</h2>
-- Swift
+
+- Swift  
 - Core Image Framework
 - IOS Development
-- Xcode platform
-- ImagePickerController
+- Xcode Platform
+- ImagePickerController Method
 - CIDetector Class
-
 
 
 <h2>Project status</h2>
