@@ -15,9 +15,9 @@
 - CIDetector Class
 
 <h2>Project status</h2>
-<br> The program has a couple bugs. Images with bad lighting are often hard to dectect and the final facial feature report may have some aspects wrong. Also if you iphone is not updated the images taken through the camra app will be unrecognizable. It is recomended to download a third party camra app from the app store and save pictures to your camra roll. However the program works perfectly for pictures saved from the internet. </p>
+The program has a couple bugs. Images with bad lighting are often hard to dectect and the final facial feature report may have some aspects wrong. Also if you iphone is not updated the images taken through the camra app will be unrecognizable. It is recomended to download a third party camra app from the app store and save pictures to your camra roll. However the program works perfectly for pictures saved from the internet. </p>
 <h2>Future Addition(s)</h2>
-<br> Currently working on adding more aspects to the final report which contains more information about various other facial features. Also the image selected will be altered to contain a square on each face to make the report easier to understand.</p>
+Currently working on adding more aspects to the final report which contains more information about various other facial features. Also the image selected will be altered to contain a square on each face to make the report easier to understand.</p>
 <h2>Device Installation</h2>
 This program can be ran on both your IOS device and the IOS simulator on xcode. First download the project and plug in device to your computer. When running the program make sure to change to you personal iphone. It is also important that the computer being used is trusted by your device.</p>
 
